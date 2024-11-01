@@ -1,20 +1,8 @@
 # ☁️ 9roomton Deepdive 1차 팀 기간 종료 <br> (2024.08.19 ~ 2024.11.01)
-<table style="width: 90%; border-collapse: collapse;">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;">안홍선</td>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;">이종혁</td>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;">송지민</td>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;">김기준</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;">유현상</td>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;">박혜정</td>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;">조은영</td>
-    <td style="border: 1px solid #ddd; padding: 8px; font-size: 16px;"></td>
-  </tr>
-  <tr>
+| **안홍선** | **이종혁** | **송지민** | **김기준** |
+|------------|------------|------------|------------|
+| **유현상** | **박혜정** | **조은영** |            |
 
-</table>
 
 
 ## 📘 [코딩 테스트 스터디](https://github.com/9oormthon-semicolon/CodingTest)
